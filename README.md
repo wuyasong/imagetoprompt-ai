@@ -19,7 +19,7 @@ visit it ☞: [imagetoprompt.club](https://imagetoprompt.club)
 
 Deploy on Vercel (Don't forget to setup env)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/wuyasong/imagetoprompt-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/wuyasong/imagetoprompt-ai.git&project-name=imagetoprompt-ai&repository-name=imagetoprompt-ai)
 
 #### 1. Clone project
 
